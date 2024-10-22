@@ -257,6 +257,7 @@ Here are various ways to reduce costs when using any cloud service, followed by 
 7. **Azure Advisor**:
    - Use **Azure Advisor** to receive personalized recommendations for reducing costs, improving performance, and boosting security.
 ---
+
 ### **GCP (Google Cloud Platform) Cost-Saving Tips**:
 1. **Committed Use Contracts**:
    - Purchase **Committed Use Contracts** for resources that you plan to use for 1 or 3 years, reducing costs by up to 57%.
@@ -282,6 +283,7 @@ Here are various ways to reduce costs when using any cloud service, followed by 
 8. **Recommendations Hub**:
    - GCP provides **Recommendations Hub**, which offers cost optimization tips like resizing instances or identifying idle resources.
 ---
+
 ### Summary of Best Practices:
 - **AWS**: Spot instances, S3 storage tiers, reserved instances, AWS Lambda, and Trusted Advisor for cost management.
 - **Azure**: Reserved instances, spot VMs, Azure Hybrid Benefit, blob storage tiers, and Azure Advisor.
@@ -331,7 +333,7 @@ Each cloud provider offers distinct pricing strategies, discounts, and optimizat
 
 # DIFFRENT POSSIBLE APPROCHES
 
-### Comprehensive Cost-Saving Strategies for Cloud Projects:
+## Comprehensive Cost-Saving Strategies for Cloud Projects:
 
 **1. EBS Volume Cleanup:**
 - Description: Cleanup of unused Elastic Block Store (EBS) volumes to reduce unnecessary costs.
@@ -395,7 +397,7 @@ Each cloud provider offers distinct pricing strategies, discounts, and optimizat
 
 These strategies highlight potential savings across various project sizes, allowing for better cost management and budget optimization in cloud environments.
 
-### Comprehensive Cloud Security Best Practices
+## Comprehensive Cloud Security Best Practices:
 
 **General Security Practices for All Cloud Services**
 
