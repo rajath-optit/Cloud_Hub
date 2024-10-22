@@ -1,5 +1,5 @@
 # ROADMAP/BEST PRACTICE/APPROCH:
-Approach to tackling cloud projects would be structured, focused, and based on best practices. Here’s I would organize my project workflow, along with a perfect roadmap of checkpoints to follow from start to finish.
+Approach to tackling cloud projects would be structured, focused, and based on best practices. here's step that would organize project workflow, along with a perfect roadmap of checkpoints to follow from start to finish.
 
 ### **General Workflow for Cloud Projects**:
 #### **1. Pre-Project Phase**:
